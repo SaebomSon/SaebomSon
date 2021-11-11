@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Saebom%20Son&fontSize=60)
+
 <h3 align="center">Hi there 👋</h3>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -14,15 +14,13 @@
 </p>
 <h3 align="center">💜 To Me 💜</h3>
 <p align="center">
-  <a href="https://velog.io/@bonni" target="_blank" rel="noreferrer noopener">
+  <a href="https://velog.io/@bonni" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@bonni"/>
   </a>&nbsp;
   <a href="mailto:newspring56@gmail.com">
     <img src="https://img.shields.io/badge/newspring56@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=newspring56@gmail.com"/>
   </a>
 </p>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 <!--
 **SaebomSon/SaebomSon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
