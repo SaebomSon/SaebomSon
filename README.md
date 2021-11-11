@@ -14,12 +14,9 @@
 </p>
 <h3 align="center">💜 To Me 💜</h3>
 <p align="center">
-  <a href="https://velog.io/@bonni" target=" _blank" rel="noreferrer noopener">
+  <a href="https://velog.io/@bonni" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@bonni"/>
   </a>&nbsp;
-  
-  
-  ![링크이름](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@bonni){:target="_blank"}
   <a href="mailto:newspring56@gmail.com">
     <img src="https://img.shields.io/badge/newspring56@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=newspring56@gmail.com"/>
   </a>
