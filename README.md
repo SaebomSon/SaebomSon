@@ -17,11 +17,10 @@
   <a href="https://velog.io/@bonni" target="_blank">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@bonni"/>
   </a>&nbsp;
-  <a href="newspring56@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=newspring56@gmail.com"/>
+    <img src="https://img.shields.io/badge/newspring56@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=newspring56@gmail.com"/>
   </a>
 </p>
-
+![](https://img.shields.io/badge/newspring56@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=newspring56@gmail.com)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 <!--
