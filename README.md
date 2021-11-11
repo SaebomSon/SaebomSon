@@ -14,13 +14,13 @@
 </p>
 <h3 align="center">💜 To Me 💜</h3>
 <p align="center">
-  <a href="https://velog.io/@bonni">
+  <a href="https://velog.io/@bonni" target="_blank">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@bonni"/>
   </a>&nbsp;
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=newspring56@gmail.com"/>
+  <a href="newspring56@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=newspring56@gmail.com"/>
+  </a>
 </p>
-
-
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
