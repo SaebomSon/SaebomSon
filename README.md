@@ -22,7 +22,7 @@
   </a>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=218bff&height=100&section=footer)
 <!--
 **SaebomSon/SaebomSon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
