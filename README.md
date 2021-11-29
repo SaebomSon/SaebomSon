@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=218bff&height=200&section=header&text=Saebom%20Son&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=deebff&height=200&section=header&text=Saebom%20Son&fontSize=50)
 <h3 align="center">Hi there 👋</h3>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=218bff&height=100&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=deebff&height=100&section=footer)
 <!--
 **SaebomSon/SaebomSon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
