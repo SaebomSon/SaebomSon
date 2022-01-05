@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/HTML-ed813e?style=flat-square&logo=Html5&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS-4654f0?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-fce85d?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>-->
 </p>
 <h3 align="center">💜 To Me 💜</h3>
 <p align="center">
